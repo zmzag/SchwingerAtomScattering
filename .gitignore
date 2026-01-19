@@ -1,0 +1,4 @@
+*.mx
+*.tmp
+*.bak
+.DS_Store
